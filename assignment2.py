@@ -1,1 +1,1 @@
-print('This is my second program.It uses \n two commands to display the output.')
+print('This is my second program.It uses \ntwo commands to display the output.')
